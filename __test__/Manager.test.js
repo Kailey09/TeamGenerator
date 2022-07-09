@@ -1,4 +1,4 @@
-const Manager = require('./lib/Manager.js');
+const Manager = require("../lib/Manager");
 const manager = new Manager('jade', '5768980', 'jharper@gmail.com', '432');
 
 
