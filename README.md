@@ -5,3 +5,6 @@ This is a Node.js command-line application that takes in information about emplo
 
 # Installation
 run npm install or npm i
+
+# Link
+https://youtu.be/VgNZ7LH0Wo8
